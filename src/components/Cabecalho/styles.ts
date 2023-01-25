@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const HeaderContainer = styled.header`
+export const CabecalhoContainer = styled.footer`
   display: flex;
   background: #00022e;
   height: 50px;

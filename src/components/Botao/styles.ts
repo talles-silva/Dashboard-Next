@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const Botao = styled.button`
+export const BotaoContainer = styled.button`
   background-color: #000;
   color: #fff;
   padding: 10px 20px;

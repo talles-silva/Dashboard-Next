@@ -1,6 +1,6 @@
 import { FooterContainer } from "./styles";
 
-export default function Footer() {
+export default function Rodape() {
   return (
     <FooterContainer>
       <p>Dashboard footer next.js aplication</p> <span>|</span>
